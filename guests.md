@@ -15,3 +15,4 @@
 | Julian            | 3             |
 | Maxibon           | 5 	        |
 | Caio              | 2  	        |
+| Natalia          | 4  	        |
